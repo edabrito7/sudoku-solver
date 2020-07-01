@@ -1,2 +1,2 @@
 # sudoku-solver
-Sudoky solver using backtracking algorithm
+Sudoku solver using backtracking algorithm
